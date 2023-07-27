@@ -4,10 +4,22 @@
 This repository contains all the files related to the Waste Management Map Design project, a tableau-based data visualization aimed at understanding the waste distribution in Washington.
 
 ## Files Included
-Here's a brief description of each file and directory:
+Below is a brief description of each file and directory in this repository:
 
-Code_data_processing.ipynb: Jupyter notebook that contains all the Python code used to process and analyze the dataset.
-Waste_Management_Upload.twb: Tableau workbook file containing the final visualization.
-docs/: Directory containing all the documents, including 'Note_DesignChanges.pdf', 'Presentation_Final.pptx', and 'Presentation_Final_PDF.pdf'
-data/: Directory containing all the original data files used in the project, including 'County Disposal.xlsx', 'IntermediateData.xlsx', and 'WA Recycling.xlsx'.
-solid_waste_final_data.xlsx: The final processed data used in the Tableau visualization.
+Code_data_processing.ipynb: This is a Jupyter notebook that contains all the Python code used for data processing and analysis.
+
+Waste_Management_Upload.twb: This Tableau workbook file houses the final visualization for the project.
+
+solid_waste_final_data.xlsx: This is the final processed data that was used in the Tableau visualization.
+
+docs/: This directory contains all the documents related to the project, which include:
+
+Note_DesignChanges.pdf: A PDF document detailing the design changes made throughout the development process.
+Presentation_Final.pptx: The final presentation in PowerPoint format.
+Presentation_Final_PDF.pdf: The final presentation in PDF format.
+
+data/: This directory houses all the original data files used in the project. These files include:
+
+County Disposal.xlsx
+IntermediateData.xlsx
+WA Recycling.xlsx
